@@ -1,5 +1,10 @@
-# Paper
+# Paper Reading
 
 ## Filesystem
 
-- [Finding a needle in Haystack: Facebook’s photo storage](./filesystem/Haystack/)
+- [x] [Finding a needle in Haystack: Facebook’s photo storage](./filesystem/Haystack/)
+
+
+## Metadata
+
+- [x] [InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems](./metadata/InfiniFS/)
